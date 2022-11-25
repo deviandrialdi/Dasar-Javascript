@@ -2,7 +2,7 @@
 
 ini adalah catatan algoritma Javascript. 
 
-1. Type data 
+A. Type data 
 Type data dibagi menjadi 3 bagian yang diantaranya:
 
 - String => tipe data string bisa menyimpan data bentuk angka, tanggal, karakter, hingga waktu.
@@ -10,7 +10,7 @@ Type data dibagi menjadi 3 bagian yang diantaranya:
 - Boolean => tipe data yang hanya mempunyai dua nilai. Yaitu true atau false (benar atau salah)
 
 
-2. Arithmetic Operator
+B. Arithmetic Operator
 Arithmetic Operator yang dibagi menjadi 6 yaitu:
 
 1. Arithmetic Operator atau matematika operator
