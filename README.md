@@ -15,24 +15,10 @@ Arithmetic Operator yang dibagi menjadi 6 yaitu:
 
 1. Arithmetic Operator atau matematika operator
  ex : +, -, *, / %, ++, __, **
- 
-NAMA OPERATOR	SIMBOL
-Penjumlahan	       +
-Pengurangan	       -
-Perkalian	         *
-Pemangkatan	       **
-Pembagian          /
-Sisa Bagi	         %
+
 
 2. assigment atau Operator Penugasan pada Javascript
-NAMA OPERATOR	              SIMBOL
-Pengisian Nilai	                =
-Pengisian dan Penambahan	     +=
-Pengisian dan Pengurangan	     -=
-Pengisian dan Perkalian	       *=
-Pengisian dan Pemangkatan	     **=
-Pengisian dan Pembagian	       /=
-Pengisian dan Sisa bagi	       %=
+ext : =, +=, -=, *=, **=, /=, %=
 
 
 3. Opeartor Perbandingan pada Javascript atau comparison
