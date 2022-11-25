@@ -92,7 +92,7 @@ console.log('score = ' + score);
 
 //---------------------------------------------------//
 
-// 3. Opeartor Perbandingan pada Javascript atau comparation
+// 3. Opeartor Perbandingan pada Javascript atau comparison
 
 /* 
 Operator relasi atau perbandingan adalah operator yang digunakan untuk membandingkan dua nilai. Operator perbandingan akan menghasilkan sebuah nilai boolean true dan false.
